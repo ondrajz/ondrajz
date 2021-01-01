@@ -1,4 +1,9 @@
-#### Go maniac ଘʕ◔ϖ◔ʔଓ
+### Greetings ⊂ʕ◔ϖ◔ʔつ
+
+I'm Ondrej, enthusiastic software engineer with 10+ years experience professionally, primarily focusing on the Go language since 2015. 
+
+###### Need my insight? Got some proposition for me? Or just want to braintstorm?
+Go ahead and start a [new discussion 💬](https://github.com/ofabry/ofabry/discussions/new) 
 
 <!--
 **ofabry/ofabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
