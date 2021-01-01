@@ -1,6 +1,6 @@
 ### Greetings ⊂ʕ◔ϖ◔ʔつ
 
-I'm Ondrej, enthusiastic software engineer with 10+ years experience professionally, primarily focusing on the Go language since 2015. 
+I'm Ondrej, enthusiastic software engineer with 10+ years professional experience, since 2015 focusing primarily on the Go language. 
 
 ###### Need my insight? Got some proposition for me? Or just want to braintstorm?
 Go ahead and start a [new discussion 💬](https://github.com/ofabry/ofabry/discussions/new) 
