@@ -1,8 +1,8 @@
-### Greetings ⊂ʕ◔ϖ◔ʔつ
+### :wave: Greetings
 
-I'm Ondrej, enthusiastic software engineer with 10+ years professional experience, since 2015 focusing primarily on the Go language. 
+I'm Ondrej, enthusiastic software engineer from Slovakia with 11+ years of experience in different languages and since 2015 mostly working with Go ⊂ʕ◔ϖ◔ʔつ
 
-###### Need my insight? Got some proposition for me? Or just want to braintstorm?
+##### Need my insight? Got some proposition for me? Or just want to braintstorm?
 Go ahead and start a [new discussion 💬](https://github.com/ofabry/ofabry/discussions/new) 
 
 <!--
