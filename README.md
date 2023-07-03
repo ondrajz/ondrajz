@@ -1,8 +1,8 @@
-### :wave: Greetings
+### :wave: Greetings human!
 
 #### About Me
 
-Hi, I am Ondrej Fabry, a highly skilled software engineer with over 12 years of experience. I am currently working as a Staff Engineer at PANTHEON.tech located in the Bratislava Metropolitan Area. I have a deep passion for open-source development and am constantly exploring innovative concepts. With over 7 years of experience in the Go language, I am well-versed in linux environments, network engineering, and software defined networking.
+Hi, I am Ondrej Fabry, a highly skilled software engineer with over 12 years of experience. I have a deep passion for open-source development and am constantly exploring innovative concepts. With over 7 years of experience in the Go language, I am well-versed in linux environments, network engineering, and software defined networking.
 
 ##### Need my insight? Got some proposition for me? Or just want to braintstorm?
 Go ahead and start a [new discussion 💬](https://github.com/ofabry/ofabry/discussions/new) 
