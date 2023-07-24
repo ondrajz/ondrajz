@@ -5,7 +5,7 @@
 Hi, I am Ondrej Fabry, a highly skilled software engineer with over 12 years of experience. I have a deep passion for open-source development and am constantly exploring innovative concepts. With over 7 years of experience in the Go language, I am well-versed in linux environments, network engineering, and software defined networking.
 
 ##### Need my insight? Got some proposition for me? Or just want to braintstorm?
-Go ahead and start a [new discussion 💬](https://github.com/ofabry/ofabry/discussions/new) 
+Go ahead and start a [new discussion 💬](https://github.com/ondrajz/ondrajz/discussions/new) 
 
 <!--
 **ofabry/ofabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
