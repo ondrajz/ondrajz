@@ -4,7 +4,7 @@
 
 I’m an experienced software engineer with 14+ years in the field, passionate about open-source development and always experimenting with new ideas. I’ve spent over a decade working with Go, specializing in network engineering and software-defined networking. 
 
-My professional GitHub account: @ondrej-fabry
+My professional GitHub account: [@ondrej-fabry](https://github.com/ondrej-fabry)
 
 ##### Need my insight? Got some proposition for me? Or just want to braintstorm?
 Go ahead and start a [new discussion 💬](https://github.com/ondrajz/ondrajz/discussions/new) 
