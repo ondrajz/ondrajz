@@ -1,13 +1,28 @@
-### :wave: Greetings human!
+### 👋 Greetings human!
 
 #### About Me
+I’m Ondrej, a software engineer with a professional career that began in 2010 and extensive experience in creating robust and scalable systems. My journey has been deeply rooted in **network engineering**, **software-defined networking**, and **open-source development**. Over the years, I’ve developed a passion for solving complex problems and turning innovative ideas into reality.
 
-I’m an experienced software engineer with 14+ years in the field, passionate about open-source development and always experimenting with new ideas. I’ve spent over a decade working with Go, specializing in network engineering and software-defined networking. 
+I specialize in **Go** language, leveraging its power to create efficient and maintainable software. As a contributor and leader in open-source projects like [**GoVPP**](https://github.com/FDio/govpp), I thrive in collaborative environments where learning and innovation flourish.
 
-My professional GitHub account: [@ondrej-fabry](https://github.com/ondrej-fabry)
+#### What I’m Up To
+- 🚀 **Engineering excellence**: Always looking for ways to optimize and push the boundaries of what’s possible.
+- 🌐 **Open-source advocate**: Proud contributor to community-driven projects.
+- 🧠 **Creative problem-solver**: Eager to brainstorm, innovate, and bring fresh perspectives.
 
-##### Need my insight? Got some proposition for me? Or just want to braintstorm?
-Go ahead and start a [new discussion 💬](https://github.com/ondrajz/ondrajz/discussions/new) 
+#### Quick Links
+- 💼 **Professional GitHub**: [@ondrej-fabry](https://github.com/ondrej-fabry)
+- 💬 **Want to chat? Let’s brainstorm**: [Start a Discussion!](https://github.com/ondrajz/ondrajz/discussions/new)
+
+---
+
+#### A Little Extra  
+Beyond the keyboard, I enjoy:
+- 🛠️ Building things - physical and digital alike.
+- 🌍 Exploring the world and planning off-grid self-sufficient projects.
+- 👨‍👩‍👧 Raising my kids to be curious and thoughtful individuals.
+
+💡 **Let’s connect, collaborate, and make something incredible together.**
 
 <!--
 **ofabry/ofabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
