@@ -3,7 +3,7 @@
 #### About Me
 I’m Ondrej, a software engineer with a professional career that began in 2010 and extensive experience in creating robust and scalable systems. My journey has been deeply rooted in **network engineering**, **software-defined networking**, and **open-source development**. Over the years, I’ve developed a passion for solving complex problems and turning innovative ideas into reality.
 
-I focus on **Go**, leveraging its power to create efficient and maintainable software. As a contributor and leader in open-source projects like [**GoVPP**](https://github.com/FDio/govpp) and the creator of [**go-callvis**](https://github.com/ondrajz/go-callvis), a tool for visualizing Go program call graphs, I thrive in collaborative environments where learning and innovation flourish.
+I focus on development with **Go** language, leveraging its power to create efficient and maintainable software. As a contributor and leader in open-source projects like [**GoVPP**](https://github.com/FDio/govpp) and the creator of [**go-callvis**](https://github.com/ondrajz/go-callvis), a tool for visualizing Go program call graphs, I thrive in collaborative environments where learning and innovation flourish.
 
 #### What I’m Up To
 - 🚀 **Engineering excellence**: Always looking for ways to optimize and push the boundaries of what’s possible.
